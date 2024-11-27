@@ -1,4 +1,4 @@
-VS_Code
+VS_Code ||
 Vs code supports code formatting for multiple languages like java, c++, c, javascript etc... so for that we need to install extensions for the specific languages
   1) c++/c - c/c++ Extension
   2) java - Extension pack for java
@@ -11,7 +11,7 @@ For Enabling Auto save press Ctrl + , and look up for the Editor: Format on save
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Intellij
+Intellij ||
 Intellij doesn't support C++/C languages code formatting. For languages like java, javascript etc .. we can use code formatting by 
  1) Install a 'EditorConfig' plugin from a plugin marketplace
  2) right click your parent folder search for EditorConfig under New, check the First 2 dialog boxes and choose the specific language you want for code formatting
@@ -20,7 +20,7 @@ Intellij doesn't support C++/C languages code formatting. For languages like jav
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-CLion
+CLion ||
 CLion supports code formatting for multiple languages like java, c++, c, javascript etc... For that we need to use same steps in Intellij
 1) Install a 'EditorConfig' plugin from a plugin marketplace
 2) right click your parent folder search for EditorConfig under New, check the First 2 dialog boxes and choose the specific language you want for code formatting
